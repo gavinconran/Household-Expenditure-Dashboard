@@ -1,0 +1,6 @@
+{
+  "name": "Household Expenditure Dashboard",
+  "description": "An interactive dashboard for tracking household expenditure, transactions, and banking statistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
